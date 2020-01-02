@@ -1,0 +1,139 @@
+
+///////////first trial///////////
+
+stair mapping res 0.005
+
+error sum 943.908
+point number 95808
+mapping error 0.00985207
+
+
+stair mapping res 0.01
+
+error sum 238.708
+point number 24400
+mapping error 0.00978313
+
+
+stair mapping res 0.02
+
+error sum 53.9665
+point number 5891
+mapping error 0.00916084
+
+
+stair mapping res 0.05
+
+error sum 11.2689
+point number 1053
+mapping error 0.0107017
+
+////////////after cutting x>0.9///////////////
+
+stair mapping res 0.005
+
+error sum 157.502
+point number 58166
+mapping error 0.00270779
+
+
+stair mapping res 0.01
+
+error sum 46.9064
+point number 14519
+mapping error 0.00323069
+
+
+stair mapping res 0.02
+
+error sum 11.1109
+point number 3529
+mapping error 0.00314846
+
+stair mapping res 0.05
+
+error sum 1.99446
+point number 610
+mapping error 0.0032696
+
+////////////elevation///////////////
+
+
+res 0.005
+
+error sum 500.75
+point number 61127
+mapping error 0.00819196
+
+res 0.01
+
+error sum 136.903
+point number 15539
+mapping error 0.00881029
+
+res 0.02
+
+error sum 40.06
+point number 4035
+mapping error 0.00992813
+
+
+res 0.05
+
+error sum 8.36235
+point number 678
+mapping error 0.0123339
+
+
+/////////////octomap////////////
+
+
+res 0.005
+
+error sum 3258.03
+point number 182890
+mapping error 0.0178142
+
+
+res 0.01
+
+error sum 1158.88
+point number 37776
+mapping error 0.0306776
+
+
+res 0.02
+
+error sum 217.481
+point number 7403
+mapping error 0.0293774
+
+
+res 0.05
+
+error sum 42.5774
+point number 1091
+mapping error 0.0390261
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
